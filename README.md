@@ -1,5 +1,9 @@
-# 💫 About Me:
+About me [EN]:
 My name is Braulio Perez, and I'm currently working as an IT Project Manager at a Collective Management Organization (CMO).<br><br>I'm eager to enhance my coding skills by contributing to new projects. I'm actively seeking opportunities to collaborate on innovative initiatives and expand my technical expertise.
+
+Acerca de mí [ES]:
+Mi nombre es Braulio Pérez, actualmente trabajo en una organización de gestión colectiva conocida como (CMO), donde soy gerente de proyectos de TI.
+Busco mejorar mis conocimientos de codificación colaborando en nuevos proyectos.
 
 
 ## 🌐 Socials:
